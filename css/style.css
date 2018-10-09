@@ -24,6 +24,8 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .templateux-navbar .site-logo a { font-size: 30px; color: #000; }
 
+.templateux-navbar .site-logo img { max-width: 250px; }
+
 .templateux-navbar .templateux-menu { position: relative; }
 
 .templateux-navbar .templateux-menu ul { margin-bottom: 0; }
